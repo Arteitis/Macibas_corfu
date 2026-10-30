@@ -1,0 +1,14 @@
+.gen_text
+{
+    text-align: center;
+    color: white;
+    border: solid white 1px;
+    border-radius: 15px;
+    margin: 3px;
+    padding: 10px;
+    word-wrap: normal;
+}
+.gen_text a
+{
+    margin-top: 20%;
+}
